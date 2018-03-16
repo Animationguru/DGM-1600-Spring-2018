@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f48e18495f7de76488d67c5fa9c37b26
+timeCreated: 1521159396
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cute Stitch
+  fontNames:
+  - Cute Stitch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
