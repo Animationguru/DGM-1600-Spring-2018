@@ -1,0 +1,9 @@
+Functions are what make Variables actually do something.
+The Void simply says that it returns no value for the variable in question.
+void Update ();
+void Start ();
+void menu ();
+void access ();
+void Start (
+static void 
+static void Main ()
