@@ -1,0 +1,16 @@
+ArrayList list = new ArrayList();
+list.add (4)
+list.add (5)
+
+ArrayList list = new ArrayList();
+list.add (1)
+list.add (9)
+
+ArrayList list = new ArrayList();
+list.add (11)
+list.add (12)
+
+ArrayList list = new ArrayList();
+  StringArray
+  list.add (1)
+  
