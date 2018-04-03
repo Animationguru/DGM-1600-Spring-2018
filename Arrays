@@ -1,0 +1,13 @@
+An Array gives definition to a something and how much it would actually be.
+Examples-
+ Array_Stuff = 2048;
+  Array_Stuff [2] = 4;
+  Array_Stuff [4] = 8;
+  Array_Stuff [8] = 16;
+  Array_Stuff [16] = 32;
+  Array_Stuff [32] = 64;
+  Array_Stuff [64] = 128;
+  Array_Stuff [128] = 256;
+  Array_Stuff [256] = 512;
+  Array_Stuff [512] = 1024;
+  Array_Stuff [2048] = Win
